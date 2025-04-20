@@ -1,7 +1,7 @@
 using System;
-using System.Windows.Forms; // Убедитесь, что эта строка есть
+using System.Windows.Forms; // Г“ГЎГҐГ¤ГЁГІГҐГ±Гј, Г·ГІГ® ГЅГІГ  Г±ГІГ°Г®ГЄГ  ГҐГ±ГІГј
 
-namespace WinFormsApp1 // Убедитесь, что это имя совпадает с вашим проектом
+namespace WinFormsApp1 // Г“ГЎГҐГ¤ГЁГІГҐГ±Гј, Г·ГІГ® ГЅГІГ® ГЁГ¬Гї Г±Г®ГўГЇГ Г¤Г ГҐГІ Г± ГўГ ГёГЁГ¬ ГЇГ°Г®ГҐГЄГІГ®Г¬
 {
     public partial class Form1 : Form
     {
@@ -28,7 +28,7 @@ namespace WinFormsApp1 // Убедитесь, что это имя совпадает с вашим проектом
   
         private void label1_Click(object sender, EventArgs e)
         {
-            // Ничего не делаем по клику на метку
+     
         }
     }
 }
