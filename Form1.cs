@@ -1,7 +1,7 @@
 using System;
-using System.Windows.Forms; // Óáåäèòåñü, ÷òî ýòà ñòðîêà åñòü
+using System.Windows.Forms;
 
-namespace WinFormsApp1 // Óáåäèòåñü, ÷òî ýòî èìÿ ñîâïàäàåò ñ âàøèì ïðîåêòîì
+namespace WinFormsApp1 
 {
     public partial class Form1 : Form
     {
